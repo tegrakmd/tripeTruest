@@ -462,3 +462,6 @@
 .animate-blink[data-astro-cid-xxd26b7g] {
   animation: blink 1s infinite;
 }
+html {
+  scroll-behavior: smooth;
+}
